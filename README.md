@@ -1,9 +1,9 @@
-<h1 align="center">Olá, eu sou o Gabriel 👋</h1>
+<h1 align="center">Hi, I'm Gabriel, but you can call me Gab. 👋</h1>
 
 <h3 align="center">Frontend Developer | UI Design → Tech</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=82BEFF&center=true&vCenter=true&width=500&lines=intention+in+every+line+of+code;React+%7C+TypeScript+%7C+Node.js;Construindo+com+prop%C3%B3sito" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=82BEFF&center=true&vCenter=true&width=500&lines=intention+in+every+line+of+code;React+%7C+TypeScript+%7C+Node.js;Building+with+purpose" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -14,17 +14,18 @@
 
 ---
 
-### 🧭 Sobre mim
+### 🧭 About me
+I am a Front-end Developer specializing in creating modern, responsive, and user-centric interfaces.
 
-Sou desenvolvedor frontend em transição de carreira — depois de mais de 5 anos em Design Gráfico e Publicidade, migrei para a tecnologia trazendo essa bagagem visual para o código. Hoje busco minha primeira posição CLT (ou projetos freelance) atuando com desenvolvimento web fullstack.
+I have technical expertise in HTML, CSS, JavaScript, TypeScript, and React.js, which I use to build efficient, well-structured digital solutions. My background includes over five years of experience in Graphic Design, providing me with a strategic perspective on usability, aesthetics, and visual communication.
 
-Acredito que boas interfaces nascem do encontro entre **lógica** e **intenção de design** — e é isso que tento aplicar em cada projeto que construo.
+Currently, I am focused on solidifying my career in Front-end Development, aiming to integrate design and technology to create intuitive, functional, and high-impact digital products.
 
-Sou de Fortaleza, CE 🇧🇷.
+Based in Fortaleza, CE 🇧🇷.
 
 ---
 
-### 🛠️ Stack & Ferramentas
+### 🛠️ Stack & Tools
 
 **Frontend**
 ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
@@ -36,11 +37,11 @@ Sou de Fortaleza, CE 🇧🇷.
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white)
 
-**Banco de Dados**
+**Databases**
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 
-**Automação & IA**
+**Automation & AI**
 ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat&logo=n8n&logoColor=white)
 
 **Design**
@@ -48,28 +49,28 @@ Sou de Fortaleza, CE 🇧🇷.
 
 ---
 
-### 🚀 Projetos em destaque
+### 🚀 Featured projects
 
-- **[Sonavox](https://github.com/gabrielgurgel7)** — E-commerce fullstack de instrumentos musicais, com React, Node.js, Express e MySQL. Foco em lógica de negócio, fluxo de dados e integração de API de pagamento.
-- **[Aprender IA](https://github.com/gabrielgurgel7)** — Aplicação React integrada a um sistema multiagente via webhooks n8n, para aprendizado assistido por IA.
-- **[Soloist](https://github.com/gabrielgurgel7)** — Plataforma de gestão de projetos e clientes para freelancers, construída com React, TypeScript e Tailwind CSS v4.
-- **[The Iron Quiz](https://github.com/gabrielgurgel7)** — Quiz temático de Game of Thrones com persistência via localStorage.
+- **[Sonavox](https://github.com/gabrielgurgel7)** — Fullstack e-commerce for musical instruments, built with React, Node.js, Express, and MySQL. Focused on business logic, data flow, and payment API integration.
+- **[Aprender IA](https://github.com/gabrielgurgel7)** — React application integrated with a multi-agent AI system via n8n webhooks, for AI-assisted learning.
+- **[Soloist](https://github.com/gabrielgurgel7)** — Project and client management platform for freelancers, built with React, TypeScript, and Tailwind CSS v4.
+- **[The Iron Quiz](https://github.com/gabrielgurgel7)** — Game of Thrones-themed quiz with localStorage persistence.
 
-> 📌 *Atualize os links acima com a URL de cada repositório.*
-
----
-
-### 🌱 Aprendendo atualmente
-
-- Aprofundando fluxo de dados e arquitetura em aplicações React + TypeScript
-- Segurança web (OWASP, XSS, CORS) aplicada a APIs Node/Express
-- Explorando integrações de IA em fluxos de automação (n8n)
+> 📌 *Update the links above with each repository's actual URL.*
 
 ---
 
-### 🎸 Fora do código
+### 🌱 Currently learning
 
-Quando não estou codando, provavelmente estou tocando guitarra, jogando em algum handheld retrô ou lendo.
+- Deepening data flow and architecture in React + TypeScript applications
+- Web security (OWASP, XSS, CORS) applied to Node/Express APIs
+- Exploring AI integrations in automation workflows (n8n)
+
+---
+
+### 🎸 Off the keyboard
+
+When I'm not coding, I'm probably playing guitar, gaming on a retro handheld, or reading.
 
 ---
 
